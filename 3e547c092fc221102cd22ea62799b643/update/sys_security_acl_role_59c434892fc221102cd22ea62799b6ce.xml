@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>bryce</sys_created_by>
+        <sys_created_on>2023-04-05 04:35:27</sys_created_on>
+        <sys_id>59c434892fc221102cd22ea62799b6ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_211315_git_test_git_test.x_211315_git_test.git_test_user</sys_name>
+        <sys_package display_value="Git Test" source="x_211315_git_test">3e547c092fc221102cd22ea62799b643</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Git Test">3e547c092fc221102cd22ea62799b643</sys_scope>
+        <sys_security_acl display_value="x_211315_git_test_git_test">51c434892fc221102cd22ea62799b6cc</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_59c434892fc221102cd22ea62799b6ce</sys_update_name>
+        <sys_updated_by>bryce</sys_updated_by>
+        <sys_updated_on>2023-04-05 04:35:27</sys_updated_on>
+        <sys_user_role display_value="x_211315_git_test.git_test_user" name="x_211315_git_test.git_test_user">0dc47c452fc221102cd22ea62799b664</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
